@@ -1,0 +1,6 @@
+# .rubocop.yml
+
+AllCops:
+  TargetRubyVersion: 2.7
+
+# Add other configuration options as needed

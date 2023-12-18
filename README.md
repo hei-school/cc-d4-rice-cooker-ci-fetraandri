@@ -1,39 +1,19 @@
-# Rice Cooker Application
+# Ruby on Replit
 
-This simple console application simulates a basic rice cooker. Users can add rice, water, cook, and serve delicious rice.
+This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
 
-## Instructions
+## Running the repl
 
-1. **Add Rice:** Choose option 1 to add a specified amount of rice to the rice cooker.
+Simply hit run! You can edit the run command from the `.replit` file.
 
-2. **Add Water:** Choose option 2 to add water to the rice cooker.
+## Installing packages
 
-3. **Cook:** Choose option 3 to start cooking the rice. The cooking process takes a predefined amount of time.
+To add packages to your repl, we recommend using the Replit packager interface in the left sidebar or using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/guides/getting_started.html).
 
-4. **Serve:** Choose option 4 to serve the cooked rice. If no rice is cooked, a message will be displayed.
+**Warning: Avoid using `gem install` to add packages.**
 
-5. **Exit:** Choose option 5 to exit the rice cooker application.
+Beacuse Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a consistent environment that tracks and installs the exact gems and versions needed, we recommend using `bundle install` instead of `gem install`, which may not work as expected.
 
-## Running Tests
+## Help
 
-To run the unit tests for this application, follow these steps:
-
-1. click this link to go to the github repository: (https://github.com/fetraandri/cc-d4-rice-cooker-ci-fetraandri) and clone this: 
-
-   ```bash
-   git clone https://github.com/fetraandri/cc-d4-rice-cooker-ci-fetraandri
-
-2. Navigate to the project directory
-   ```bash
-   cd cc-d4-rice-cooker-ci-fetraandri
-
-3.follow the 'readme' for this repository for these 4 languages : 
-  .ruby
-  .c++
-  .c#
-  .go
-
-
-   
-
-   
+If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
