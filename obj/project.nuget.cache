@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tGEeJ9BDkizIavsdYII/uB9nQVSQ34o0VyRIoc/bkod6T1YD34JXBNn6IYSC0CfhUL0UVXcP9TwfdvOS3rZcwA==",
+  "success": true,
+  "projectFilePath": "/home/runner/DecimalGentleLists/main.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

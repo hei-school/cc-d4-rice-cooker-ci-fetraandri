@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run start-time="2023-12-18 22:18:12Z">
+  <command-line><![CDATA[/nix/store/275n71s9mld4ln0qzba0r89drkpcli0r-NUnit.Console-3.0.1/lib/dotnet/NUnit.Console/nunit3-console.exe RiceCookerTests.dll]]></command-line>
+</test-run>
