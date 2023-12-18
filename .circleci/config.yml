@@ -1,0 +1,22 @@
+version: 2.1
+
+jobs:
+  build:
+    docker:
+      - image: golang:1.19.3  
+    working_directory: /go/src/github.com/fetraandri/cc-d4-rice-cooker-ci-fetraandri  
+
+    steps:
+      - checkout
+
+      # Installez les dépendances
+      - run: go mod download
+
+      # Exécutez les tests
+      - run: go test ./...
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build
